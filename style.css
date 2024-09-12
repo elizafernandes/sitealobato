@@ -1,0 +1,16 @@
+*{
+ margin: 0%;
+ padding: 0%;
+}
+:root{
+
+}
+.cabecalho{
+    background-color: rgb(241, 238, 243);
+}
+.corpo{
+    background-color: blueviolet;
+}
+.forter{
+    background-color: blue;
+}
