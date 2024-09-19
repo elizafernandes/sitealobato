@@ -22,8 +22,8 @@
     padding: 10px 20px;
     background-color: black;
     color: aliceblue;
-    text-decoration; nome;
-    border: radius 5px;    
+text-decoration: none;
+    border-radius: 5px;    
 }
 .boton:hover{
     background: linear-gradient(to rigth,#b92424,#f17a7a,#750303) ;
