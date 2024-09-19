@@ -17,9 +17,17 @@
 }
 .boton{
     position:fixed
-    top: 20px;
+    top : 20px;
     left: 20px;
     padding: 10px 20px;
-    background-color
-    
+    background-color:blank
+    color:blank
+    text-decoration; nome;
+    border: radius 5px;    
+}
+.boton:houver{
+    background: linear-gradient(to rigth,) ;
+}
+.boton.active{
+    font-size: 20px;
 }
