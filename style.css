@@ -16,12 +16,12 @@
     background-color: blue;
 }
 .boton{
-    position:fixed
+    position:fixed;
     top : 20px;
     left: 20px;
     padding: 10px 20px;
-    background-color:blank
-    color:blank
+    background-color:blank;
+    color: aliceblue;
     text-decoration; nome;
     border: radius 5px;    
 }
