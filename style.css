@@ -25,8 +25,8 @@
     text-decoration; nome;
     border: radius 5px;    
 }
-.boton:houver{
-    background: linear-gradient(to rigth,) ;
+.boton:hover{
+    background: linear-gradient(to rigth,#b92424,#f17a7a,#750303) ;
 }
 .boton.active{
     font-size: 20px;
