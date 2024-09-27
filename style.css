@@ -37,9 +37,9 @@ text-decoration: none;
 }
 
 .video-item{
-    background-color: aliceblue;
+    background-color: rgb(62, 137, 202);
     padding: 10px;
     border-radius: 8px;
-    box-shadow: 0 2px 10px floralwhite;
+    box-shadow: 0 2px 10px rgb(184, 139, 49);
     height: 200px;
 }
