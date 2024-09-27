@@ -30,3 +30,16 @@ text-decoration: none;
 .boton.active{
     font-size: 20px;
 }
+.video-grid{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,);
+    gap:20px;
+}
+
+.video-item{
+    background-color: aliceblue;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px floralwhite;
+    height: 200px;
+}
