@@ -32,7 +32,7 @@ text-decoration: none;
 }
 .video-grid{
     display: grid;
-    grid-template-columns: repeat(auto-fit,);
+    grid-template-columns: repeat(<iframe width="1323" height="744" src="https://www.youtube.com/embed/0Xat2Vfk7p0" title="Zé Neto e Cristiano - BEBIDA NA FERIDA - #EsqueceOMundoLaFora" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>,);
     gap:20px;
 }
 
